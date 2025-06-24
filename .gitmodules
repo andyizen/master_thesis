@@ -11,6 +11,6 @@
 	url = git@andyizen:andyizen/cpp_filter.git
 	branch = master
 [submodule "vivado"]
-	path = vivado
-	url = git@andyizen:andyizen/vivado.git
+    path = vivado
+    url = https://github.com/andyizen/vivado.git
 	branch = main
