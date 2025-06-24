@@ -10,3 +10,7 @@
 	path = cpp_filter
 	url = git@andyizen:andyizen/cpp_filter.git
 	branch = master
+[submodule "vivado"]
+	path = vivado
+	url = git@andyizen:andyizen/vivado.git
+	branch = main
