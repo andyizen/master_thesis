@@ -1,14 +1,14 @@
 [submodule "hls_components"]
 	path = hls_components
-	url = git@andyizen:andyizen/hls_components.git
+	url = https://github.com/andyizen/hls_components.git
 	branch = main
 [submodule "filterbook"]
 	path = filterbook
-	url = git@andyizen:andyizen/filterbook.git
+	url = https://github.com/andyizen/filterbook.git
 	branch = main
 [submodule "cpp_filter"]
 	path = cpp_filter
-	url = git@andyizen:andyizen/cpp_filter.git
+	url = https://github.com/andyizen/cpp_filter.git
 	branch = master
 [submodule "vivado"]
     path = vivado
